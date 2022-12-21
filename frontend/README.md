@@ -1,4 +1,4 @@
-# hw10
+# Frontend
 
 ## Project setup
 ```
